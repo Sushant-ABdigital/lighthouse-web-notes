@@ -1,5 +1,4 @@
 # Sushant's Notes
 
-# This is the H1 Header
-
-###### This is the H6 Header
+## Summary
+This repository contains all the notes taken by [Sushant](https://github.com/Sushant-ABdigital) for the Lighthouse Labs Web Development Bootcamp.
